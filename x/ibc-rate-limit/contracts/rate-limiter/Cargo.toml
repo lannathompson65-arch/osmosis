@@ -50,5 +50,5 @@ hex = "0.4.3"
 
 [dev-dependencies]
 cw-multi-test = "0.13.2"
-serde-json-wasm = "0.5.2"
+serde-json-wasm = "1.0.1"
 itertools = "0.13"
